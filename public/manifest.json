@@ -1,0 +1,9 @@
+{
+  "name": "ColisGo-Express",
+  "short_name": "ColisGo",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0F1C3F",
+  "theme_color": "#0F1C3F"
+}
